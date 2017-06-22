@@ -20,7 +20,7 @@ h1, h2 {
 }
 
 h1 {
-	font-size: 32px;
+	font-size: 25px;
 }
 
 h2 {
@@ -52,6 +52,7 @@ form {
 .box {
 	background-color: #ffffff;
 	border: 1px solid #dddddd;
+	margin-bottom: 15px;
 }
 
 .social img {
