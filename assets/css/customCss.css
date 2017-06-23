@@ -16,11 +16,11 @@ h1, h2 {
 	font-family: 'Georgia', Times, Times New Roman, serif;
 	font-weight: 600;
 	color: #4aaaa5;
-	padding: 10px;
+	padding: 10px 0;
 }
 
 h1 {
-	font-size: 25px;
+	font-size: 32px;
 }
 
 h2 {
@@ -77,6 +77,15 @@ form {
 
 .caption h2 {
 	color: #fff; 
+}
+
+.btn-submit {
+	font-size: 18px;
+	background-color: #4aaaa5;
+	text-align: center;
+	padding: 10px 25px;
+	color: white;
+	border:none;
 }
 
 .footer {
